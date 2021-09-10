@@ -1,4 +1,4 @@
-    By using the following terminal commands, the most used characteristics were generated:
+    By using the following terminal commands, the most used characteristics were generated with numbers to the left of the characterists denoting number of occurences:
     gawk -vFPAT='[^,]*|"[^"]*"' '{print $14}' WaterAtlas-OneLake.csv | tr "[a-z]" "[A-Z]" | tr -d '"' |sort | uniq -c -i | sort -nr
     
     
