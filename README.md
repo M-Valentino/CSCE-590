@@ -8,6 +8,7 @@ Program should be run on Linux.
 Gawk should be installed on Linux terminal. "sudo apt install gawk"
 
 Running program:
+
 Compile and run the Java program.
 In java project soruce code directory, many .csv and .py will be generated.
 The .py files are programs that plot data, and the the numbered .py files plot data based off of the corresponding .csv files generated.
