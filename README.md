@@ -1,5 +1,5 @@
 # CSCE-590
-Before you run code:
+<b>Before you run code:</b>
 
 <br>Eclipse or any Java IDE with built in console is probably neded.
 
@@ -11,7 +11,7 @@ Before you run code:
 
 <br>Gawk should be installed on Linux terminal. "sudo apt install gawk"
 
-Running program:
+<b>Running program:</b>
 
 
 <br>Compile and run the Java program.
