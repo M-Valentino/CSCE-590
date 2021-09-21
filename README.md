@@ -1,7 +1,7 @@
 # CSCE-590
 Before you run code:
 
-Eclipse or any Java IDE with built in console is probably neded.
+<br>Eclipse or any Java IDE with built in console is probably neded.
 Java files in the /src/ directory should be imported into a new Java project.
 WaterAtlas-OneLake.csv should be imported into the root directory of the new Java project. 
 Program should be run on Linux.
