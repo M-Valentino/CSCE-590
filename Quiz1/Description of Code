@@ -1,0 +1,2 @@
+I was running short on time when I was doing the quiz, so I hardly commented my code. The Java program depends on Linux in order for it to work since
+it executes a bash script. Gawk (an improved version of awk) would have to be installed.  All the python files can be run individually to plot all data points. 
